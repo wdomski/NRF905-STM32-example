@@ -1,4 +1,9 @@
 /* USER CODE BEGIN Header */
+/*
+ * Author: Wojciech Domski
+ * WWW: domski.pl
+ *
+ */
 /**
  ******************************************************************************
  * @file           : main.c
