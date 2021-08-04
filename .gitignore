@@ -1,0 +1,10 @@
+Debug
+
+.mxproject
+.setings
+
+Backup
+
+*.old
+*.bak
+*.log

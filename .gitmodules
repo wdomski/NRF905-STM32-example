@@ -1,0 +1,3 @@
+[submodule "NRF905-STM32"]
+	path = NRF905-STM32
+	url = git@github.com:wdomski/NRF905-STM32.git
